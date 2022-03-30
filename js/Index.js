@@ -200,7 +200,7 @@ function createCell(right,down) {
     }
     else {
         previousBut = but;
-        continue;
+        //continue;
     }
 
 }
